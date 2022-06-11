@@ -10,9 +10,15 @@ Zippy can also be modified for any application by screwing the proper attachment
 
 ## Specifications
 
-<p align="center">
-  <img width="500" src="Images/side_drawing.png">
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" img width="1000" srcset="Images/side_drawing_dark.png">
+    <source media="(prefers-color-scheme: light)" img width="1000" srcset="Images/side_drawing_light.png">
+    <img alt="Side drawing" img width="1000" src="Images/side_drawing_light.png">
+  </picture>
+</div>
+
+
 
 Reach: 509 mm / 20.04 inches
 
