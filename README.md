@@ -1,5 +1,7 @@
 # Zippy - A 6 DOF Robot Arm
 
+![Front view of the robot arm](Images/front_view.png)
+
 ## Overview
 
 Zippy is an open-source low-cost 3D printed robotic arm with 6 revolute joints. It is a compact lightweight desktop robot arm that makes it ideal for table-top tasks. It is especially useful for individuals that may not have access to expensive fabrication machines such as CNC machines or waterjet cutters, as it is designed to be fully 3D printed and assembled with minimal tools.
@@ -17,8 +19,6 @@ Zippy can also be modified for any application by screwing the proper attachment
     <img alt="Side drawing" img width="1000" src="Images/side_drawing_light.png">
   </picture>
 </div>
-
-
 
 Reach: 509 mm / 20.04 inches
 
