@@ -29,3 +29,7 @@ Maximum joint speeds at payload: 360 deg/s
 Infinite rotation at end joint
 
 Note maximum payload can be increased with reduced joint speeds
+
+## Demonstration
+
+![Short demonstration](Images/short_demo.gif)
