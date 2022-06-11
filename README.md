@@ -7,3 +7,19 @@ Zippy is an open-source low-cost 3D printed robotic arm with 6 revolute joints. 
 Zippy can be used for tabletop photography and cinematography, with precise control over waypoints, as well as the velocity and acceleration between waypoints. The ease of programming Zippy also makes it a great educational tool to learn about open chain kinematics, including forward, inverse, and velocity kinematics.
 
 Zippy can also be modified for any application by screwing the proper attachment onto the universal end-effector plate, allowing it to perform other desired tasks such as assembly, screwdriving, or pick-and-place.
+
+## Specifications
+
+<p align="center">
+  <img width="500" src="Images/side_drawing.png">
+</p>
+
+Reach: 509 mm / 20.04 inches
+
+Payload: 500 g / 1.1 lbs
+
+Maximum joint speeds at payload: 360 deg/s
+
+Infinite rotation at end joint
+
+Note maximum payload can be increased with reduced joint speeds
